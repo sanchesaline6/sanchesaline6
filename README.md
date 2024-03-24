@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working as a low-code developer using Pegasystems platform
 - 🌱 I’m currently learning AI and cloud concepts
-- 💬 Ask me about ...
 - 📫 How to reach me:
 
 [![Gmail Badge](https://img.shields.io/badge/-sanches.aline6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanches.aline6@gmail.com "Connect via Email")
